@@ -1,0 +1,40 @@
+* {
+    font-family: sans-serif;
+    color: rgb(71, 5, 75);
+    margin-left: 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+   
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+.sub {
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+div {
+   text-align: center;
+}
+button {
+    width: 200px;
+    background-color: rgb(161, 162, 240);
+    font-size: 30px;
+}
+img {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+    text-decoration: wavy;
+}
