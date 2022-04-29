@@ -2,6 +2,10 @@
     font-family: sans-serif;
     color: rgb(71, 5, 75);
     margin-left: 10px;
+    
+}
+body {
+    background-color: rgb(173, 216, 254);
 }
 h1 {
     text-align: center;
